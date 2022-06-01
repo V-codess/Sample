@@ -61,23 +61,3 @@ $submit  = true;
 </body>
 </html>
 
-<!-- //    $name = "vaishnavi";
-    //    $age = 2021-1998;
-    //    $time = time();
-    //    echo "Good Evening " .$time;
-    //    echo "<h5> My first PHP. </h5>";
-    //     print "<h3>My name is " . $name. " and Im " .$age. ". </h3>";
-    //     echo "<p>I want to become a full stack developer.</p>";
-    //     if($_SERVER["REQUEST_METHOD"]=="POST"){
-    //        
-    //     }
-
-        //  function test_input($data){
-        //     $data = trim($data);
-        //     $data = stripslashes($data);
-        //     $data = htmlspecialchars($data);
-        //     return $data;
-        // }
-        // if (isset($_POST['submit'])) {
-        //     echo "Submitted!";
-        // } -->
